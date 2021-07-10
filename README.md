@@ -1,0 +1,2 @@
+# ICCV2021_Visdrone_detection
+ICCV2021 Workshop Visdrone Detection Competition
